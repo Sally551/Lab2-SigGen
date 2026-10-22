@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "WSL Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/sally/Documents/iac/toolchain/share/verilator/include",
+                "/home/sally/Documents/iac/toolchain/share/verilator/include/vltstd"
+            ],
+            "compilerPath": "/usr/bin/g++",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
