@@ -1,0 +1,54 @@
+[
+  {
+    "directory": "/home/sally/Documents/iac/Lab2-SigGen/task1",
+    "file": "/home/sally/Documents/iac/Lab2-SigGen/task1/sinegen_tb.cpp",
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++17",
+      "-I/home/sally/Documents/iac/Lab2-SigGen/task1/obj_dir",
+      "-I/home/sally/Documents/iac/toolchain/share/verilator/include",
+      "-I/home/sally/Documents/iac/toolchain/share/verilator/include/vltstd",
+      "-c",
+      "/home/sally/Documents/iac/Lab2-SigGen/task1/sinegen_tb.cpp"
+    ]
+  },
+  {
+    "directory": "/home/sally/Documents/iac/Lab2-SigGen/task1",
+    "file": "/home/sally/Documents/iac/Lab2-SigGen/task1/vbuddy.cpp",
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++17",
+      "-I/home/sally/Documents/iac/Lab2-SigGen/task1/obj_dir",
+      "-I/home/sally/Documents/iac/toolchain/share/verilator/include",
+      "-I/home/sally/Documents/iac/toolchain/share/verilator/include/vltstd",
+      "-c",
+      "/home/sally/Documents/iac/Lab2-SigGen/task1/vbuddy.cpp"
+    ]
+  },
+  {
+    "directory": "/home/sally/Documents/iac/Lab2-SigGen/task2",
+    "file": "/home/sally/Documents/iac/Lab2-SigGen/task2/sinegen_tb.cpp",
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++17",
+      "-I/home/sally/Documents/iac/Lab2-SigGen/task2/obj_dir",
+      "-I/home/sally/Documents/iac/toolchain/share/verilator/include",
+      "-I/home/sally/Documents/iac/toolchain/share/verilator/include/vltstd",
+      "-c",
+      "/home/sally/Documents/iac/Lab2-SigGen/task2/sinegen_tb.cpp"
+    ]
+  },
+  {
+    "directory": "/home/sally/Documents/iac/Lab2-SigGen/task2",
+    "file": "/home/sally/Documents/iac/Lab2-SigGen/task2/vbuddy.cpp",
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++17",
+      "-I/home/sally/Documents/iac/Lab2-SigGen/task2/obj_dir",
+      "-I/home/sally/Documents/iac/toolchain/share/verilator/include",
+      "-I/home/sally/Documents/iac/toolchain/share/verilator/include/vltstd",
+      "-c",
+      "/home/sally/Documents/iac/Lab2-SigGen/task2/vbuddy.cpp"
+    ]
+  }
+]
